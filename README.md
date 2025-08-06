@@ -3,9 +3,7 @@
 <h3 align="center">Skills</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,ts,nodejs,tailwind,express,mongodb,mysql,python,java,php,bootstrap,laravel,react,docker,vscode,postman,css,firebase,symfony," />
-  </a>
+    <img src="https://skillicons.dev/icons?i=js,react,ts,nodejs,tailwind,express,mongodb,mysql,python,java,php,bootstrap,laravel,react,docker,vscode,postman,css,firebase,symfony" />
 </p>
 
 # Certificates
