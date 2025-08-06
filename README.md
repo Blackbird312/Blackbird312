@@ -24,4 +24,4 @@
   <a href="http://www.github.com/Blackbird312" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=Blackbird312&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackbird312" alt="blackbird312" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackbird312&theme=onedark" alt="blackbird312" /></a> </p>
