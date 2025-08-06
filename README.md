@@ -1,5 +1,4 @@
-<img src="https://s41660.pcdn.co/wp-content/uploads/2020/04/90-article-banner-2.gif"/>
-
+![Header](./github-profile-banner.gif)
 <h3 align="center">Skills</h3>
 
 <p align="center">
