@@ -2,7 +2,7 @@
 <h3 align="center">Skills</h3>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,react,ts,nodejs,tailwind,express,mongodb,mysql,python,java,php,bootstrap,laravel,react,docker,vscode,postman,css,firebase,symfony" />
+    <img src="https://skills.syvixor.com/api/icons?i=js,react,ts,nodejs,tailwind,express,mongodb,mysql,python,java,php,bootstrap,laravel,react,docker,vscode,postman,css,firebase,symfony,jenkins,springboot" />
 </p>
 
 # Certificates
