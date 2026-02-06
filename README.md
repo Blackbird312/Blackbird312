@@ -1,7 +1,6 @@
-![Header](./github-profile-banner.gif)
 <h3 align="center">Skills</h3>
 
-<p align="center">
+{!-- <p align="center">
     <img src="https://skills.syvixor.com/api/icons?i=js,react,ts,nodejs,tailwind,express,mongodb,mysql,python,java,php,bootstrap,laravel,react,docker,vscode,postman,css,firebase,symfony,jenkins,springboot" />
 </p>
 
