@@ -1,3 +1,7 @@
+
+<img src="grok-video-abca1e47-1da5-4ec5-8f15-43b6763a6fdc.gif" alt="Alt text" width="100%">
+
+
 <h3 align="center">Skills</h3>
 
 <p align="center">
